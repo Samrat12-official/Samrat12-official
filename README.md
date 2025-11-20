@@ -38,12 +38,13 @@
   <table>
     <tr>
       <td>
-        <img src="https://github-readme-stats.vercel.app/api?username=samrat-banerjee&show_icons=true&theme=midnight-purple" alt="Samrat's GitHub Stats" height="200px" />
+        <img src="https://github-readme-stats.vercel.app/api?username=Samrat12-official&show_icons=true&theme=midnight-purple" alt="Samrat's GitHub Stats" height="200px" />
       </td>
       <td>
-        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=samrat-banerjee&layout=compact&theme=midnight-purple" alt="Samrat's Top Languages" height="200px" />
+        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Samrat12-official&layout=compact&theme=midnight-purple" alt="Samrat's Top Languages" height="200px" />
       </td>
     </tr>
   </table>
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=samrat-banerjee&theme=react-dark&bg_color=000000&color=7e15f7&line=7e15f7&point=FFFFFF&area=true&hide_border=true" width="100%"/>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Samrat12-official&theme=react-dark&bg_color=000000&color=7e15f7&line=7e15f7&point=FFFFFF&area=true&hide_border=true" width="100%"/>
 </p>
+
