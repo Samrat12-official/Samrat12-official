@@ -2,7 +2,7 @@
     <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&color=7e15f7&size=35&center=true&vCenter=true&width=500&height=70&duration=2000&lines=Hi+There!+👋;+I'm+Samrat+Banerjee+👨🏻‍💻;" />
 </h1>
 
-<h2 align="center">Junior Cloud-Native Oracle DBA ☁️ | DevOps Engineer ⚙️ | OCI Automation Specialist 🚀</h2>
+<h2 align="center">Cloud-Native Oracle DBA ☁️ | DevOps Engineer ⚙️ | OCI Automation Specialist 🚀</h2>
 
 <div align="center"> 
  I’m <b>Samrat Banerjee</b> – a Cloud-Native <b>Oracle Apps DBA</b> passionate about <b>OCI automation, DevOps workflows, and database reliability</b>.  
